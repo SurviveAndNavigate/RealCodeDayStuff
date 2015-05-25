@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Navigate and Survive</title>
+
+    <link href="../static/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../static/styles.css">
+
+  </head> 
+
+    <link rel="icon" type=image/png" href=../static/images/trulia.png>
+
+    <body data-feedly-mini="yes">
+
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="#">Navigate and Survive</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <form class="navbar-form navbar-right">
+              <div ="form-group"</form>
+          </div><!--/.navbar-collapse -->
+        </div>
+      </nav>
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <div class="container">
+
+          <h1><strong><em>Greetings, Philadelphia!</em></strong></h1><br>
+
+          <p>Navigate your way through your community and you will surely survive with our help. By connecting your location to this website, we will locate food and transportion in your general vicinity. Keep in mind that this website is specifically designed for Philadelphia, home to one of the largest and busiest cities of the US.</p>
+        </div>
+      </div>
+  
+  <div class="container app">
+    <div class="page-header">
+      <h1>Pinpoint Your Interest</h1>
+      <h3>Click any of the icons below to start locating</h3> 
+    </div>
+    <div class="interest food col-xs-6">
+      <a href={{url_for('food')}}><img src="../static/images/pizza.png"></a>
+      <h2>Food</h2>
+      <p>Hungry? Need a snack? Dinner? Whatever it is, we got your back. Satiate your hunger or appetite by locating the nearest convenience stores or restaurants around you. Bonne appetite!</p>
+    </div>
+
+    <div class="interest transportaion col-xs-6">
+      <a href={{url_for('food')}}><img src="../static/images/publicTransport.png"></a>
+      <h2>Transportation</h2>
+      <p>Lost? Need a lift? Late to a date? Cool, no problem. We'll show you the yellow brick road to your destination. By locating your destination, we will provide you with your nearest bus stops.</p>
+    </div>
+  </div>
+
+
+     
+  <footer class="container-fluid">
+      <h3>Developers</h3>
+        <p>
+          <text-indent=50px>
+             Alice Lu<br/>
+             Michael Chen<br/>
+             Srihari Shankar
+             </text-indent=50px>
+        </p>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script type="text/javascript" src="../static/bootstrap.min.js"></script>
+
+<div id="feedly-mini" title="feedly Mini tookit"></div></body></html>
+</html>
+</div>

@@ -1,0 +1,515 @@
+TYPE,ADDRESS,LOCATION,LOCATION_2,ENTRANCE_T,TYPE_2,LAT,LNG
+Pedestrian and Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.98157588,-75.2057114632
+Vehicular,SWEETBRIAR DR,West Fairmount Park, ,Road,Secondary,39.9772066604,-75.1982482923
+Vehicular,34TH ST,West Fairmount Park, ,Road,Primary,39.9682170971,-75.1924652534
+Pedestrian,MARTIN LUTHER KING DR,West Fairmount Park, ,Trail - Park,Primary,39.9641752887,-75.184194796
+Pedestrian and Vehicular,MARTIN LUTHER KING DR,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9646930133,-75.1844238424
+Vehicular,GIRARD AVE,West Fairmount Park, ,Road,Secondary,39.9747510576,-75.1986377415
+Vehicular,SCHUYLKILL EXPY,West Fairmount Park, ,Road,Secondary,39.974803433,-75.1991661163
+Pedestrian,3400 W GIRARD AVE,West Fairmount Park,Philadelphia Zoological Gardens,Trail - Park,Primary,39.9747536346,-75.1996127198
+Pedestrian,3400 W GIRARD AVE,West Fairmount Park,Philadelphia Zoological Gardens,"Trail - Park, Parking Lot",Primary,39.974527459,-75.2017306977
+Pedestrian,3400 W GIRARD AVE,West Fairmount Park,Philadelphia Zoological Gardens,"Trail - Park, Parking Lot",Primary,39.9744187686,-75.2026748861
+Pedestrian and Vehicular,3400 W GIRARD AVE,West Fairmount Park,Philadelphia Zoological Gardens,Trail - Park,Primary,39.9747499426,-75.2049225564
+Pedestrian,3400 W GIRARD AVE,West Fairmount Park, ,Trail - Park,Primary,39.974521306,-75.2043175354
+Pedestrian,3400 W GIRARD AVE,West Fairmount Park,Philadelphia Zoological Gardens,"Trail - Park, Parking Lot",Primary,39.9743217646,-75.2037822241
+Pedestrian and Vehicular,41ST ST,West Fairmount Park,Main Entrance,"Trail - Park, Road",Primary,39.9754095755,-75.2067077262
+Pedestrian,41ST ST,West Fairmount Park, ,Trail - Park,Primary,39.9763822587,-75.2093390094
+Pedestrian,41ST ST,West Fairmount Park, ,Trail - Park,Primary,39.9763308794,-75.2092009891
+Pedestrian and Vehicular,41ST ST,West Fairmount Park,"Main Entrance, Memorial Hall","Trail - Park, Road",Primary,39.976736129,-75.2103020277
+Pedestrian and Vehicular,41ST ST,West Fairmount Park,"Main Entrance, Memorial Hall","Trail - Park, Road",Primary,39.977083944,-75.2112319548
+Pedestrian,4301 S CONCOURSE DR,West Fairmount Park,Case Building,Trail - Park,Primary,39.9778425667,-75.2132985366
+Pedestrian and Vehicular,BELMONT AVE,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9779323169,-75.2135102035
+Pedestrian,PARKSIDE AVE,West Fairmount Park, ,Trail - Park,Primary,39.9808032413,-75.2212827211
+Pedestrian,PARKSIDE AVE,West Fairmount Park, ,Trail - Park,Primary,39.9808978797,-75.2215314415
+Pedestrian and Vehicular,PARKSIDE AVE,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9816631084,-75.2239784277
+Pedestrian,PARKSIDE AVE,West Fairmount Park, ,Trail - Park,Primary,39.9819141934,-75.2262594217
+Pedestrian,PARKSIDE AVE,West Fairmount Park,Evans Playground Building,Trail - Park,Primary,39.9827289956,-75.2268994475
+Pedestrian and Vehicular,PARKSIDE AVE,West Fairmount Park,Evans Playground Building,"Trail - Park, Parking Lot",Primary,39.98332824,-75.2269072455
+Pedestrian and Vehicular,WYNNEFIELD AVE,West Fairmount Park, ,"Trail - Park, Road",Primary,39.990202119,-75.2200225196
+Vehicular,BELMONT MANSION DR,West Fairmount Park, ,Road,Secondary,39.992502348,-75.2187875529
+Pedestrian and Vehicular,BELMONT AVE,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9936130616,-75.2178225201
+Pedestrian and Vehicular,EDGLEY AVE,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9964195264,-75.2149357983
+Pedestrian and Vehicular,FORD RD,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9990312739,-75.2071505835
+Pedestrian,WENTWORTH RD,West Fairmount Park, ,Trail - Park,Primary,39.999762488,-75.2064765246
+Vehicular,FALLS RD,West Fairmount Park, ,Road,Primary,40.0045884787,-75.2021655441
+Pedestrian,FALLS RD,West Fairmount Park, ,Trail - Park,Primary,40.0047243217,-75.2019998072
+Pedestrian and Vehicular,BELLS MILL RD,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0796463211,-75.2245866062
+Vehicular,VALLEY GREEN RD,Wissahickon Valley Park, ,Road,Primary,40.0582742572,-75.2126176262
+Vehicular,GERMANTOWN AVE,Wissahickon Valley Park, ,Road,Secondary,40.0670406798,-75.1965051607
+Vehicular,GERMANTOWN AVE,Wissahickon Valley Park, ,Road,Secondary,40.0663158554,-75.1962942421
+Vehicular,LINCOLN DR,Wissahickon Valley Park, ,Road,Primary,40.0389447427,-75.1916977046
+Vehicular,JOHNSON ST,Wissahickon Valley Park, ,Road,Secondary,40.0387279897,-75.1912631148
+Pedestrian,TOOKANY CREEK PKWY,Tacony Creek Park, ,Trail - Park,Primary,40.0474107023,-75.112259559
+Pedestrian,CRESCENTVILLE RD,Tacony Creek Park, ,Trail - Park,Primary,40.0429353232,-75.1132211888
+Pedestrian,ADAMS AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0426074106,-75.1132626645
+Pedestrian,ADAMS AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0424732926,-75.113144168
+Pedestrian,ADAMS AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0418760877,-75.112351348
+Pedestrian,ADAMS AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0424772439,-75.1134156132
+Pedestrian,CRESCENTVILLE RD,Tacony Creek Park, ,Trail - Park,Primary,40.0422901891,-75.1138893216
+Pedestrian and Vehicular,HAMMOND AVE,Tacony Creek Park,Hammond and Nedro Building,"Trail - Park, Road",Primary,40.0394930018,-75.1163901566
+Vehicular,120 NORTHWESTERN AVE,Wissahickon Valley Park, ,Parking Lot,Primary,40.0843516436,-75.2321448345
+Vehicular,120 NORTHWESTERN AVE,Wissahickon Valley Park, ,Parking Lot,Primary,40.0845671286,-75.231926413
+Pedestrian,200 NORTHWESTERN AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0838025479,-75.2326375344
+Pedestrian,200 NORTHWESTERN AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.083598014,-75.232825419
+Vehicular,200 NORTHWESTERN AVE,Wissahickon Valley Park, ,Park,Primary,40.0835773784,-75.2329190494
+Pedestrian,120 NORTHWESTERN AVE,Wissahickon Valley Park, ,Park,Primary,40.085176735,-75.2312849181
+Pedestrian,GERMANTOWN AVE,Wissahickon Valley Park,Gate,Park,Primary,40.0849585516,-75.2289640778
+Pedestrian,GERMANTOWN AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0840461503,-75.2281112407
+Pedestrian,200 NORTHWESTERN AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0834874495,-75.2329303224
+Pedestrian and Vehicular,NORTHWESTERN AVE,Wissahickon Valley Park, ,"Trail - Park, Parking Lot",Primary,40.0807469138,-75.235847719
+Pedestrian and Vehicular,NORTHWESTERN AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0779859894,-75.2385881348
+Vehicular,NORTHWESTERN AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0775451507,-75.2390327037
+Vehicular,LYKENS LN,Wissahickon Valley Park, ,Road,Secondary,40.0722089957,-75.2390928012
+Vehicular,LYKENS LN,Wissahickon Valley Park, ,Road,Secondary,40.0700659347,-75.2378371448
+Pedestrian,CLYDE LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0749979883,-75.2301119155
+Vehicular,SEQUOIA RD,Wissahickon Valley Park, ,Road,Secondary,40.0706315684,-75.2333385802
+Vehicular,SEQUOIA RD,Wissahickon Valley Park, ,Road,Secondary,40.0686970611,-75.2320781642
+Vehicular,901 CATHEDRAL DR,Wissahickon Valley Park,Courtesy Stable Barn,Road,Primary,40.0673667279,-75.23119384
+Pedestrian and Vehicular,CATHEDRAL DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.067684347,-75.2297250369
+Pedestrian,CATHEDRAL DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.0666581633,-75.2250182556
+Pedestrian,OLD LINE RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.0618368542,-75.2267732989
+Vehicular,SUMMIT AVE,Wissahickon Valley Park, ,Road,Secondary,40.0604273639,-75.2283028734
+Vehicular,SUMMIT AVE,Wissahickon Valley Park, ,Road,Secondary,40.0596989069,-75.22986073
+Pedestrian,SUMMIT AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0597354915,-75.2296787515
+Pedestrian and Vehicular,SEFFERT ST,Wissahickon Valley Park, ,Trail - Park,Secondary,40.061102129,-75.2331148886
+Pedestrian and Vehicular,SEFFERT ST,Wissahickon Valley Park, ,Trail - Park,Secondary,40.0616003419,-75.2328420002
+Pedestrian and Vehicular,SEFFERT ST,Wissahickon Valley Park, ,Trail - Park,Secondary,40.0617029454,-75.2326287742
+Pedestrian and Vehicular,WISES MILL RD,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0538194407,-75.2310150851
+Pedestrian,HENRY AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0537133933,-75.2307631308
+Pedestrian and Vehicular,WIGARD AVE,Wissahickon Valley Park,Wigard Street House,"Trail - Park, Road",Primary,40.052634879,-75.2269704232
+Pedestrian and Vehicular,HENRY AVE,Wissahickon Valley Park,Wissahickon Offices - NW Philly,"Trail - Park, Road",Primary,40.050821117,-75.2230546959
+Pedestrian,HENRY AVE,Wissahickon Valley Park,Saul High School,Trail - Park,Primary,40.0485071613,-75.2180626741
+Vehicular,HENRY AVE,Wissahickon Valley Park,Saul High School,Road,Secondary,40.0487563551,-75.2187177634
+Pedestrian and Vehicular,HENRY AVE,Wissahickon Valley Park,Pachella Field Shelter & Bath,"Trail - Park, Road",Primary,40.046229847,-75.2175764081
+Pedestrian,GORGAS LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0429774635,-75.2196832787
+Pedestrian,JANNETTE ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0348366815,-75.2095450854
+Pedestrian,DUPONT ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0359283692,-75.2098607918
+Pedestrian,ROXBOROUGH & MAGDALENA,Wissahickon Valley Park, ,Trail - Park,Primary,40.0325816334,-75.2055418582
+Vehicular,700 WALNUT LN,Wissahickon Valley Park,Walnut Lane Golf Course,Road,Secondary,40.028671923,-75.2054743064
+Vehicular,800 WALNUT LN,Wissahickon Valley Park,Walnut Lane Golf Course,Road,Secondary,40.0301678521,-75.2038260977
+Vehicular,800 WALNUT LN,Wissahickon Valley Park,Walnut Lane Golf Course,"Road, Parking Lot",Primary,40.0300809606,-75.2036794449
+Pedestrian,800 WALNUT LN,Wissahickon Valley Park,Walnut Lane Golf Course,Trail - Park,Primary,40.0295321227,-75.2033325601
+Pedestrian,800 WALNUT LN,Wissahickon Valley Park,Walnut Lane Golf Course,Trail - Park,Primary,40.0305199614,-75.2013205827
+Pedestrian,WALNUT LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0331558539,-75.1987295437
+Pedestrian,694 WALNUT LN,Wissahickon Valley Park,Blue Bell Picnic Pavilion & Bath,"Trail - Park, Road, Parkling lot",Primary,40.0328888811,-75.1961314714
+Pedestrian,WALNUT LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0320612525,-75.1938901089
+Pedestrian,WALNUT LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0319086205,-75.1923618652
+Pedestrian,WALNUT LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0320035947,-75.1918409634
+Pedestrian,WISSAHICKON AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0318028611,-75.1890354572
+Pedestrian and Vehicular,5800 WISSAHICKON AVE,Wissahickon Valley Park,Rittenhouse Town,"Trail - Park, Road",Primary,40.0314820171,-75.188704262
+Vehicular,WISSAHICKON AVE,Wissahickon Valley Park, ,Road,Secondary,40.031844182,-75.1889809027
+Vehicular,WISSAHICKON AVE,Wissahickon Valley Park, ,Road,Secondary,40.0301489385,-75.1870735797
+Pedestrian,5800 WISSAHICKON AVE,Wissahickon Valley Park,Rittenhouse Town,Trail - Park,Primary,40.0307873952,-75.187880825
+Pedestrian,LINCOLN & WISSAHICKON,Wissahickon Valley Park, ,Trail - Park,Primary,40.0309700509,-75.1878613179
+Pedestrian,RIDGE AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0150306638,-75.2069528162
+Pedestrian,FREELAND AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0170731883,-75.2056654636
+Pedestrian,FREELAND AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0171146909,-75.2055374081
+Pedestrian,RETTA ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.017487493,-75.204453995
+Pedestrian,RETTA ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0173584954,-75.204278821
+Pedestrian,VICARIS ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0197550325,-75.2036362841
+Pedestrian,620 HERMIT LN,Wissahickon Valley Park,Daisy Day Camp Building & Bath,Trail - Park,Secondary,40.0222722448,-75.203814718
+Pedestrian and Vehicular,HERMIT LN,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0246473596,-75.2026695861
+Pedestrian and Vehicular,HERMIT LN,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0259289708,-75.1994319747
+Pedestrian,HERNY AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0255181542,-75.1971884891
+Pedestrian,HERNY AVE,Wissahickon Valley Park,Walnut Lane Golf Course,Trail - Park,Secondary,40.0261089008,-75.1996353707
+Pedestrian,GYPSY LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0170723775,-75.2011792692
+Pedestrian,GYPSY LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0171827993,-75.2011312236
+Pedestrian,WISSAHICKON AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0289054577,-75.1855484209
+Pedestrian,WISSAHICKON AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0287030706,-75.1853094743
+Pedestrian,WISSAHICKON & RITTENHOUSE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0295077054,-75.1863270122
+Pedestrian,LINCOLN & WISSAHICKON,Wissahickon Valley Park, ,Trail - Park,Primary,40.0293635516,-75.1885652639
+Pedestrian,LINCOLN DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.0294892814,-75.1888411844
+Pedestrian,LINCOLN DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.0283929897,-75.1906409092
+Pedestrian,LINCOLN DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.0275110601,-75.1915841289
+Vehicular,HARVEY ST,Wissahickon Valley Park, ,Road,Secondary,40.0321047289,-75.185528024
+Pedestrian,JOHNSON ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0377221429,-75.1905360004
+Pedestrian and Vehicular,JOHNSON ST,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0366039974,-75.1917721059
+Pedestrian,JOHNSON ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0367403794,-75.1920417147
+Pedestrian,CLIVEDEN ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.038020357,-75.1918388428
+Pedestrian and Vehicular,6245 WISSAHICKON AVE,Wissahickon Valley Park,Thomas Mansion,"Trail - Park, Road, Parking Lot",Primary,40.0343540092,-75.1917595707
+Pedestrian and Vehicular,6249 WISSAHICKON AVE,Wissahickon Valley Park,Jacob Kelter House,"Trail - Park, Road",Primary,40.0346108347,-75.1920823213
+Pedestrian,CREFELD ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0768696853,-75.2164424854
+Pedestrian,CHESTNUT HILL AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0730959253,-75.2156042983
+Pedestrian,CHESTNUT HILL AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0732682114,-75.2154252849
+Pedestrian and Vehicular,REX AVE,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0689938992,-75.2164482859
+Pedestrian,CHEROKEE ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0621146016,-75.2135330542
+Pedestrian,VALLEY GREEN RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.056315551,-75.2146024595
+Pedestrian and Vehicular,VALLEY GREEN RD,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0562623903,-75.2145217807
+Pedestrian,GATEHOUSE LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0544082208,-75.2092385533
+Pedestrian,MC CALLUM ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0540740393,-75.2042547404
+Pedestrian,SAINT MARTINS LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0597887854,-75.2024564857
+Pedestrian and Vehicular,EMLEN ST,Wissahickon Valley Park, ,Road,Secondary,40.0574890201,-75.2000346912
+Pedestrian,EMLEN ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0584588312,-75.2002719299
+Pedestrian,EMLEN ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0581698243,-75.2000898514
+Pedestrian,ALLENS LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.056361991,-75.1972121323
+Pedestrian,CRESHEIM RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.0585180903,-75.1963242051
+Pedestrian,CRESHEIM VALLEY DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.062148446,-75.2001939459
+Vehicular,NAVAJO ST,Wissahickon Valley Park, ,Road,Secondary,40.0654455001,-75.1985510199
+Vehicular,LINCOLN DR,Wissahickon Valley Park, ,Road,Secondary,40.0641192655,-75.2004772009
+Vehicular,CRITTENDEN ST,Wissahickon Valley Park, ,Road,Secondary,40.0713104517,-75.191487821
+Vehicular,CRESHEIM VALLEY DR,Wissahickon Valley Park, ,Road,Primary,40.0730688067,-75.1893172359
+Pedestrian,EMLEN ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0553608793,-75.1995521876
+Pedestrian and Vehicular,LIVEZEY LN,Wissahickon Valley Park, ,Trail - Park,Primary,40.0470289139,-75.2098139335
+Pedestrian and Vehicular,MOUNT AIRY,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0432363906,-75.208763612
+Pedestrian,MOUNT PLEASANT PL,Wissahickon Valley Park, ,Trail - Park,Primary,40.0436869816,-75.2051464759
+Pedestrian,MOUNT PLEASANT RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.0501615602,-75.1995174585
+Pedestrian,GREENE ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0487010147,-75.199444474
+Pedestrian,GREENE ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0485387744,-75.1994349191
+Pedestrian,MOUNT PLEASANT RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.0482869465,-75.201212016
+Pedestrian,SHERMAN ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0464959106,-75.1995789665
+Pedestrian,SEDGWICK & SHERMAN,Wissahickon Valley Park, ,Trail - Park,Primary,40.045801564,-75.1985858449
+Pedestrian,MOUNT PLEASANT RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.0458899445,-75.2028236604
+Pedestrian,MOUNT PLEASANT RD,Wissahickon Valley Park, ,Trail - Park,Primary,40.0452487126,-75.2030882539
+Pedestrian,WISSAHICKON AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0440234308,-75.2032274613
+Pedestrian,WISSAHICKON AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0434863443,-75.2026009961
+Pedestrian,WISSAHICKON AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0425443226,-75.2014999308
+Pedestrian,SEDGWICK ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0443264865,-75.2002605202
+Pedestrian,SEDGWICK ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0452612287,-75.1991215674
+Pedestrian and Vehicular,KITCHENS LN,Wissahickon Valley Park, ,"Trail - Park, Road",Primary,40.0394845337,-75.2028665458
+Pedestrian,WESTVIEW AVE,Wissahickon Valley Park, ,Trail - Park,Primary,40.0383807657,-75.2013375698
+Pedestrian,HORTER ST,Wissahickon Valley Park, ,Trail - Park,Primary,40.0374633598,-75.1985638101
+Pedestrian,PARK LINE DR,Wissahickon Valley Park, ,Trail - Park,Primary,40.0364074036,-75.1982877731
+Vehicular,WALNUT LN,Wissahickon Valley Park, ,Road,Secondary,40.0334135328,-75.1976807615
+Vehicular,WALNUT LN,Wissahickon Valley Park, ,Road,Secondary,40.0332646773,-75.1976279436
+Vehicular,7100 HENRY AVE,Wissahickon Valley Park,Saul High School,Road,Secondary,40.0491668606,-75.2195131571
+Vehicular,7100 HENRY AVE,Wissahickon Valley Park,Saul High School,Road,Secondary,40.0493670271,-75.2199424477
+Vehicular,7100 HENRY AVE,Wissahickon Valley Park,Saul High School,Road,Secondary,40.0496232774,-75.2204937267
+Pedestrian,RIDGE AVE,East Fairmount Park, ,Trail - Park,Primary,40.0149572429,-75.2072150582
+Pedestrian,KELLY DR,East Fairmount Park,Kelly Drive,Trail - Park,Primary,40.0147671081,-75.2064562658
+Pedestrian,KELLY DR,East Fairmount Park,Kelly Drive,"Trail - Park, Parkling lot",Primary,40.0107593871,-75.2021551469
+Vehicular,KELLY DR,East Fairmount Park,Kelly Drive,Road,Secondary,40.0104128814,-75.2007371627
+Pedestrian and Vehicular,KELLY DR,East Fairmount Park,Kelly Drive,Road,Primary,40.0085313233,-75.1942988197
+Vehicular,FERRY RD,East Fairmount Park,Kelly Drive,Road,Primary,40.0073664126,-75.1915885902
+Vehicular,HUNTING PARK,East Fairmount Park,Hunting Park to Kelly Drive,Road,Primary,39.9996697589,-75.190451632
+Vehicular,KELLY DR,East Fairmount Park,Robin Hood Dell East,"Park, Parkling lot",Primary,39.9976181831,-75.1907973457
+Pedestrian,STRAWBERRY MANSION DR,East Fairmount Park, ,Trail - Park,Primary,39.9967470652,-75.1905996199
+Pedestrian,STRAWBERRY MANSION DR,East Fairmount Park, ,Trail - Park,Primary,39.9948452847,-75.1913140836
+Pedestrian,RIDGE AVE,East Fairmount Park, ,Trail - Park,Primary,39.9965982943,-75.1877083729
+Vehicular,RIDGE AVE,East Fairmount Park, ,"Road, Parking Lot",Primary,39.996350064,-75.1877307
+Vehicular,RIDGE AVE,East Fairmount Park, ,"Road, Parking Lot",Primary,39.9957473266,-75.1876629367
+Vehicular,RIDGE AVE,East Fairmount Park, ,Road,Primary,39.9949059465,-75.187399555
+Pedestrian and Vehicular,DAUPHIN DR,East Fairmount Park, ,"Road, Sidewalks",Primary,39.9918158722,-75.1864868634
+Pedestrian,2102 N 33RD STST,East Fairmount Park, ,Trail - Park,Primary,39.988791289,-75.1873796305
+Pedestrian,2102 N 33RD STST,East Fairmount Park, ,Trail - Park,Primary,39.9888912679,-75.1881419854
+Vehicular,DIAMOND ST,East Fairmount Park, ,Road,Primary,39.9886892895,-75.1871669278
+Vehicular,FOUNTAIN GREEN DR,East Fairmount Park, ,Road,Primary,39.9806304617,-75.1980036208
+Pedestrian and Vehicular,RESERVOIR DR,East Fairmount Park,Main Entrance,"Trail - Park, Road",Primary,39.9812139063,-75.1887987942
+Vehicular,CALUMET ST,East Fairmount Park, ,Road,Primary,40.0093099485,-75.1968246892
+Vehicular,RESERVOIR DR,East Fairmount Park, ,Road,Primary,39.995324301,-75.1916746414
+Vehicular,2400 JOHN B KELLY DR,East Fairmount Park,East Park Canoe House,"Road, Parking Lot",Primary,39.9941279341,-75.1925684661
+Vehicular,2400 JOHN B KELLY DR,East Fairmount Park,East Park Canoe House and St Joseph's Boathouse,"Road, Parking Lot",Primary,39.992751616,-75.1938383609
+Vehicular,2400 JOHN B KELLY DR,East Fairmount Park,East Park Canoe House and St Joseph's Boathouse,"Road, Parking Lot",Primary,39.9923661818,-75.1945148959
+Vehicular,KELLY DR,East Fairmount Park,Reviewing Stand on Kelly Drive,"Road, Parking Lot",Primary,39.9872554548,-75.2000203734
+Vehicular,1700 JOHN B KELLY DR,East Fairmount Park, ,Road,Primary,39.9757277094,-75.1918744803
+Vehicular,LEMON HILL DR,East Fairmount Park, ,Road,Primary,39.9699978979,-75.1884684316
+Pedestrian and Vehicular,SEDGLEY DR,East Fairmount Park, ,"Trail - Park, Road",Primary,39.9694527888,-75.1847697421
+Pedestrian and Vehicular,1 JOHN B KELLY DR,East Fairmount Park, ,"Trail - Park, Road",Primary,39.9691926276,-75.1847500732
+Pedestrian,KELLY DR,East Fairmount Park, ,Trail - Park,Primary,39.9675572512,-75.1817986441
+Vehicular,KELLY DR,East Fairmount Park, ,Road,Primary,39.9674819689,-75.1811692078
+Pedestrian and Vehicular,ANNE DHARNONCOURT WAY,East Fairmount Park,Philadelphia Museum of Art,"Road, Sidewalks",Primary,39.9663171484,-75.1795530295
+Pedestrian,2600 BENJ FRANKLIN PKY,East Fairmount Park,Philadelphia Museum of Art,Plaza,Primary,39.964623725,-75.1795609807
+Pedestrian and Vehicular,ANNE DHARNONCOURT WAY,East Fairmount Park,Philadelphia Museum of Art,"Trail - Park, Road",Primary,39.9646082957,-75.1822255925
+Pedestrian,SCHUYLKILL BANKS TRAIL,East Fairmount Park,Schuylkill River Trail,Trail - Park,Primary,39.9643953503,-75.1826747077
+Pedestrian,PENNSYLVANIA AVE,East Fairmount Park, ,Trail - Park,Primary,39.9689671541,-75.1817730186
+Pedestrian,PENNSYLVANIA AVE,East Fairmount Park, ,Trail - Park,Primary,39.9684331404,-75.1811760273
+Pedestrian and Vehicular,POPLAR ST,East Fairmount Park, ,"Trail - Park, Road",Primary,39.9735740025,-75.1865891674
+Pedestrian and Vehicular,GIRARD AVE,East Fairmount Park, ,"Trail - Park, Road",Primary,39.9750727843,-75.1873416745
+Pedestrian and Vehicular,33RD ST,East Fairmount Park, ,"Trail - Park, Road",Primary,39.9770666512,-75.1896275391
+Pedestrian and Vehicular,33RD ST,East Fairmount Park,SEPTA bus turn around,Trail - Park,Secondary,39.9824487806,-75.1885338798
+Pedestrian,33RD ST,East Fairmount Park, ,Trail - Park,Primary,39.9840752232,-75.1881765831
+Pedestrian,33RD ST,East Fairmount Park, ,Trail - Park,Primary,39.984254208,-75.1881317124
+Pedestrian and Vehicular,33RD ST,East Fairmount Park,East Park Reservoir,"Trail - Park, Road",Primary,39.9884542091,-75.1872136562
+Pedestrian,2102 N 33RD ST,East Fairmount Park,Mander Playground,Trail - Park,Primary,39.9893699584,-75.1870163045
+Pedestrian,33RD ST,East Fairmount Park, ,Trail - Park,Primary,39.9903033176,-75.1868158862
+Vehicular,NEILL DR,West Fairmount Park, ,Road,Secondary,40.0064389793,-75.2075675384
+Vehicular,SCHUYLKILL EXPY,West Fairmount Park,Schuylkill Expressway,Road,Secondary,40.0083461412,-75.2034059608
+Pedestrian and Vehicular,FALLS RD,East Fairmount Park,Falls Bridge,"Road, Bridge",Primary,40.0090250015,-75.1970305382
+Pedestrian and Vehicular,FALLS RD,West Fairmount Park,"Falls Bridge, MLK Drive","Road, Bridge",Primary,40.0077244858,-75.197832717
+Vehicular,ROOSEVELT BLVD,West Fairmount Park,Schuylkill Expressway,"Road, Bridge",Secondary,40.0067023649,-75.1935014111
+Pedestrian and Vehicular,2700 WEST RIVER DR,West Fairmount Park,West Comfort Station,"Trail - Park, Parking Lot",Primary,40.0020613586,-75.1926489135
+Pedestrian and Vehicular,2700 WEST RIVER DR,West Fairmount Park,West Comfort Station,"Trail - Park, Parking Lot",Primary,40.0014048866,-75.1927157961
+Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,40.0013864965,-75.1925751386
+Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,40.0004264615,-75.1928840765
+Pedestrian and Vehicular,STRAWBERRY MANSION DR,West Fairmount Park, ,Road,Primary,39.9957220158,-75.1949217567
+Pedestrian and Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.9918992711,-75.1997205809
+Pedestrian and Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.9927185234,-75.1986112279
+Pedestrian and Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.9897479241,-75.2025034663
+Pedestrian and Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.9886816705,-75.2033337599
+Pedestrian and Vehicular,1802 WEST RIVER DR,West Fairmount Park,West River Drive Stables,"Trail - Park, Road",Primary,39.9887097835,-75.2035264057
+Pedestrian and Vehicular,1802 WEST RIVER DR,West Fairmount Park,West River Drive Stables,"Trail - Park, Road",Primary,39.9899659626,-75.2025262791
+Pedestrian and Vehicular,MONTGOMERY DR,West Fairmount Park, ,"Trail - Park, Road",Primary,39.9865700419,-75.2052134088
+Vehicular,BLACK RD,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.9827835512,-75.2063290841
+Pedestrian and Vehicular,WEST RIVER DR,West Fairmount Park, ,"Trail - Park, Parking Lot",Primary,39.9807331741,-75.2047978874
+Pedestrian,BALTIMORE AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9437287713,-75.2458890426
+Pedestrian and Vehicular,WOODLAND AVE,Cobbs Creek Park,Blue Bell Tavern,"Trail - Park, Road, Parkling lot",Primary,39.9172768915,-75.2463754666
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9241189927,-75.2456546288
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9246155961,-75.2454414548
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9259250043,-75.2458503284
+Pedestrian,S 67TH ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9279154228,-75.2451865498
+Pedestrian,S 65TH ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9295372826,-75.2431701568
+Pedestrian,S 65TH ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9297654897,-75.2444012868
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9346355906,-75.2431686143
+Vehicular,COBBS CREEK PKWY,Cobbs Creek Park, ,Road,Secondary,39.9332044817,-75.240783694
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.933673791,-75.2396266878
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9337101331,-75.2371073258
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9378481444,-75.2340400007
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9379496572,-75.2369951625
+Vehicular,WHITBY AVE,Cobbs Creek Park, ,Road,Secondary,39.9401815822,-75.2423816886
+Pedestrian,WHITBY AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9400282648,-75.2396587036
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9402521005,-75.2366419325
+Pedestrian and Vehicular,COBBS CREEK PKWY,Cobbs Creek Park, ,"Trail - Park, Road, Parkling lot",Primary,39.9414185769,-75.2380354678
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9414061665,-75.2383156
+Pedestrian,WHITBY AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9396605964,-75.238765875
+Pedestrian,WHITBY AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9401717102,-75.2367859309
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9426574248,-75.2393518575
+Pedestrian and Vehicular,FORBIDDEN DR,Wissahickon Valley Park, ,"Trail - Park, Road, Parkling lot",Primary,40.0274777027,-75.1926552241
+Pedestrian and Vehicular,STRAWBERRY MANSION DR,East Fairmount Park, ,"Trail - Park, Road",Primary,39.994806154,-75.1926875907
+Pedestrian and Vehicular,4001 LANSDOWNE DR,West Fairmount Park,CEDAR GROVE,"Trail - Park, Road",Primary,39.9786179347,-75.2062627664
+Pedestrian and Vehicular,4231 N CONCOURSE DR,West Fairmount Park,Memorial Hall,"Trail - Park, Road",Primary,39.9786937,-75.2066085033
+Pedestrian,HAMMOND AVE,Tacony Creek Park,Hammond and Nedro Building,Park Entry,Primary,40.040028358,-75.1161410834
+Vehicular,5658 RISING SUN AVE,Tacony Creek Park,Rising Sun Office,"Road, Parking Lot",Secondary,40.0373772122,-75.1126762092
+Pedestrian,CHEW AVE,Tacony Creek Park, ,Trail - Park,Secondary,40.0370973012,-75.1147284578
+Pedestrian,RISING SUN AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0363348729,-75.1134405654
+Pedestrian,RISING SUN AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0362561289,-75.1132808373
+Pedestrian,GARLAND ST,Tacony Creek Park,Recreation Equipment,Trail - Park,Primary,40.0340451295,-75.1100951091
+Pedestrian,E TABOR RD,Tacony Creek Park, ,Trail - Park,Primary,40.0310788404,-75.1112969962
+Pedestrian,E OLNEY AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0310190514,-75.111978377
+Pedestrian,E TABOR RD,Tacony Creek Park, ,Trail - Park,Primary,40.0308318891,-75.1115053316
+Pedestrian,E TABOR RD,Tacony Creek Park, ,Trail - Park,Primary,40.0309127081,-75.1112946248
+Pedestrian,RISING SUN AVE,Tacony Creek Park,Small Welcome Park - Tacony Park Sign,Plaza,Secondary,40.0344409694,-75.1147185104
+Pedestrian,E TABOR RD,Tacony Creek Park, ,Park Entry,Secondary,40.0312171104,-75.110363761
+Pedestrian,ROOSEVELT BLVD,Tacony Creek Park, ,Trail - Park,Primary,40.0274562177,-75.1137656238
+Pedestrian,BINGHAM ST,Tacony Creek Park, ,Trail - Park,Primary,40.0282301815,-75.1136458464
+Pedestrian,RORER ST,Tacony Creek Park, ,Trail - Park,Primary,40.0265004862,-75.1142998448
+Pedestrian and Vehicular,4800 WHITAKER AVE,Tacony Creek Park,Vaird Boys/Girls Club,"Trail - Park, Road",Primary,40.0218073656,-75.1128151921
+Pedestrian,PENNWAY ST,Tacony Creek Park, ,Trail - Park,Secondary,40.0234324115,-75.1092747261
+Pedestrian,WYOMING AVE,Tacony Creek Park, ,Trail - Park,Primary,40.0213367319,-75.1110564509
+Pedestrian,FISHERS LN,Tacony Creek Park, ,Trail - Park,Primary,40.0210026615,-75.1039053026
+Pedestrian,RAMONA AVE,Tacony Creek Park,Juniata Golf Course,Trail - Park,Primary,40.0166797979,-75.1077823361
+Pedestrian,RAMONA AVE,Tacony Creek Park,Juniata Golf Course,Trail - Park,Primary,40.015750985,-75.1071069988
+Pedestrian,I ST & CAYUGA,Tacony Creek Park,Ferko Playground,Trail - Park,Primary,40.0147366057,-75.1072163542
+Pedestrian,1101 E CAYUGA ST,Tacony Creek Park,Ferko Playground,Trail - Park,Primary,40.0144283763,-75.1050088036
+Pedestrian and Vehicular,1101 E CAYUGA ST,Tacony Creek Park,Ferko Playground,Park Entry,Primary,40.0142414717,-75.1035742871
+Pedestrian and Vehicular,1101 E CAYUGA ST,Tacony Creek Park,Ferko Playground,Park Entry,Primary,40.0140620117,-75.1021948691
+Pedestrian and Vehicular,1391 E CAYUGA ST,Tacony Creek Park,Juniata Golf Course,Park Entry,Primary,40.0139973442,-75.1015425174
+Vehicular,1391 E CAYUGA ST,Tacony Creek Park,Juniata Golf Course,Park Entry,Secondary,40.0186383358,-75.1017231102
+Pedestrian and Vehicular,PINE RD,Pennypack Creek Park,Fox Chase Farm,Park Entry,Primary,40.090229064,-75.0697744172
+Pedestrian and Vehicular,PINE RD,Pennypack Creek Park,Fox Chase Farm,Park Entry,Primary,40.088612432,-75.072217457
+Pedestrian,PINE & BLOOMFIELD,Pennypack Creek Park, ,Trail - Park,Primary,40.0922708289,-75.0661714857
+Pedestrian,PINE RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0904711917,-75.0688393581
+Pedestrian and Vehicular,PINE RD,Pennypack Creek Park, ,"Trail - Park, Road, Parking lot",Primary,40.0896258151,-75.0701023149
+Pedestrian,PINE RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0868174129,-75.0742846876
+Pedestrian,VERREE RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0845463438,-75.0648222658
+Pedestrian,VERREE RD,Pennypack Creek Park, ,Road,Secondary,40.0845226893,-75.0622395387
+Pedestrian and Vehicular,VERREE RD,Pennypack Creek Park, ,"Trail - Park, Road, Parking lot",Primary,40.0851982834,-75.061449633
+Pedestrian,VERREE RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0856864976,-75.0603667911
+Pedestrian,VERREE RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0858040994,-75.0605400114
+Pedestrian and Vehicular,VERREE RD,Pennypack Creek Park,PP Environmental Center,"Trail - Park, Road, Parking lot",Primary,40.0873165719,-75.0587116046
+Pedestrian,BLOOMFIELD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0898195196,-75.0575944642
+Pedestrian,BLOOMFIELD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0899639971,-75.0579540348
+Pedestrian,BLOOMFIELD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0902373705,-75.0609069774
+Pedestrian,BLOOMFIELD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0904603329,-75.0636430917
+Pedestrian,BLOOMFIELD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0905507557,-75.0640542972
+Pedestrian,VERREE RD,Pennypack Creek Park, ,Trail - Park,Secondary,40.0870773425,-75.0586209538
+Pedestrian,VERREE RD,Pennypack Creek Park,May be a rogue trail,Trail - Park,Secondary,40.0832123988,-75.0639568452
+Pedestrian and Vehicular,VERREE RD,Pennypack Creek Park, ,"Trail - Park, Road, Parking lot",Primary,40.0804185212,-75.0680344382
+Pedestrian,TABOR AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0754668118,-75.0674578287
+Vehicular,KREWSTOWN RD,Pennypack Creek Park, ,Road,Secondary,40.0804573338,-75.0517425283
+Pedestrian and Vehicular,8640 KREWSTOWN RD,Pennypack Creek Park,Krewstown Stables Barn,"Trail - Park, Road, Parking lot",Secondary,40.0793881122,-75.0528884426
+Pedestrian and Vehicular,8640 KREWSTOWN RD,Pennypack Creek Park,Krewstown Stables Barn,"Trail - Park, Road, Parking lot",Secondary,40.0787832947,-75.0535078323
+Pedestrian,KREWSTOWN RD,Pennypack Creek Park,May be a rogue trail,Trail - Park,Primary,40.0810022385,-75.0497327365
+Pedestrian,DALE RD,Pennypack Creek Park,May be a rogue trail,Trail - Park,Secondary,40.0797514117,-75.0449607881
+Pedestrian,KREWSTOWN RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0777190577,-75.0537733379
+Pedestrian and Vehicular,KREWSTOWN RD,Pennypack Creek Park, ,"Trail - Park, Road, Parking lot",Primary,40.0766624812,-75.0546667309
+Pedestrian,KREWSTOWN RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0750623748,-75.0559671105
+Pedestrian,KREWSTOWN RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0741424449,-75.0560336001
+Vehicular,ALGON AVE,Pennypack Creek Park, ,Road,Secondary,40.0733284848,-75.0559353086
+Pedestrian,ALGON AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0740737073,-75.0545396245
+Pedestrian,TABOR AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0729860576,-75.0686827521
+Pedestrian,TABOR AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0726514733,-75.0689214234
+Pedestrian,TABOR AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0717740684,-75.0689084848
+Pedestrian,TABOR AVE,Pennypack Creek Park,May be a rogue trail,Trail - Park,Secondary,40.0720758296,-75.0688642598
+Pedestrian and Vehicular,DORCAS ST,Pennypack Creek Park,May be a rogue trail,Trail - Park,Secondary,40.0719699565,-75.0599378549
+Pedestrian,BENTON AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0758546105,-75.0466116421
+Pedestrian,BUSTLETON AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0749086663,-75.0457831619
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0754554762,-75.0420111568
+Pedestrian and Vehicular,WINCHESTER AVE,Pennypack Creek Park,Maternity B.V.M. Roman Catholic Church,Road,Primary,40.0770655131,-75.0431706979
+Pedestrian,PENNYPACK PATH,Pennypack Creek Park, ,Trail - Park,Primary,40.0730468212,-75.0402977293
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0689304025,-75.0407615363
+Vehicular,ROOSEVELT BLVD,Pennypack Creek Park, ,Road,Secondary,40.0684370737,-75.0401405324
+Vehicular,ROOSEVELT BLVD,Pennypack Creek Park, ,Road,Secondary,40.0649216447,-75.0417005267
+Pedestrian,ROOSEVELT BLVD,Pennypack Creek Park, ,Trail - Park,Primary,40.0652823769,-75.0419033188
+Pedestrian and Vehicular,88605 E ROOSEVELT BLVD,Pennypack Creek Park,"NE Chamber of Commerce, Axe Factory Office","Trail - Park, Road, Parking lot",Primary,40.0672245942,-75.0403384769
+Pedestrian and Vehicular,88605 E ROOSEVELT BLVD,Pennypack Creek Park,"NE Chamber of Commerce, Axe Factory Office","Trail - Park, Road, Parking lot",Primary,40.0667700806,-75.0405441864
+Pedestrian and Vehicular,WINCHESTER AVE,Pennypack Creek Park, ,"Trail - Park, Road",Primary,40.067606001,-75.038569173
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park,<Null>,Trail - Park,Primary,40.0668227193,-75.0372160427
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park,<Null>,Trail - Park,Primary,40.0665646154,-75.0367848183
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0658927819,-75.0356758814
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0655395126,-75.0350402454
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park,May be a rogue trail,Trail - Park,Secondary,40.0612022116,-75.0335576982
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park,May be a rogue trail,Trail - Park,Secondary,40.0609687234,-75.0336647825
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0604772499,-75.0339075013
+Vehicular,HOLME AVE,Pennypack Creek Park, ,Road,Secondary,40.0573527875,-75.0344213485
+Vehicular,HOLME AVE,Pennypack Creek Park, ,Road,Secondary,40.0583920528,-75.0383226216
+Pedestrian,HOLME AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0582246092,-75.0384120181
+Pedestrian,HOLME AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0575095787,-75.0356552729
+Pedestrian,HOLME AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0577447336,-75.0353638369
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0556840721,-75.0354217567
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0555420424,-75.0355213848
+Pedestrian,LEXINGTON AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0536428517,-75.0398718175
+Vehicular,RHAWN ST,Pennypack Creek Park, ,Road,Secondary,40.0531094981,-75.0401444351
+Pedestrian,RHAWN ST,Pennypack Creek Park, ,Trail - Park,Primary,40.0514451965,-75.0372192437
+Pedestrian,HOLMEHURST AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0510768572,-75.0357782785
+Pedestrian,HOLMEHURST AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0512196921,-75.0360015816
+Pedestrian and Vehicular,RHAWN ST,Pennypack Creek Park,Main Entrance,"Trail - Park, Road, Parking lot",Primary,40.0503980689,-75.0352783047
+Pedestrian,PENNYPACK PATH,Pennypack Creek Park, ,Trail - Park,Primary,40.0490906739,-75.0334060662
+Pedestrian,CRESCO AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0486155227,-75.0303153509
+Pedestrian and Vehicular,RHAWN ST,Pennypack Creek Park, ,"Trail - Park, Road",Secondary,40.0478633053,-75.0316142073
+Pedestrian,WINCHESTER AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0513560425,-75.031304367
+Vehicular,WELSH RD,Pennypack Creek Park, ,Road,Secondary,40.0506466466,-75.0267088611
+Vehicular,WELSH RD,Pennypack Creek Park, ,Road,Secondary,40.0484716328,-75.0260196427
+Pedestrian,WELSH RD,Pennypack Creek Park, ,Trail - Park,Primary,40.0506301156,-75.0265835725
+Pedestrian,CRESCO AVE,Pennypack Creek Park,Main Entrance,Trail - Park,Primary,40.0484051679,-75.0261789597
+Pedestrian,SOLLY AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0491001401,-75.0243919943
+Pedestrian,FRANKFORD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.043682898,-75.0196950619
+Pedestrian,FRANKFORD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0437077962,-75.0211817356
+Pedestrian,FRANKFORD AVE,Pennypack Creek Park,Rocky Falls Day Camp,Trail - Park,Primary,40.0439134455,-75.0216019499
+Pedestrian,FRANKFORD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0434733606,-75.0201419198
+Pedestrian,ENFIELD AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0411304462,-75.019708894
+Pedestrian,TORRESDALE AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0381640852,-75.0198479371
+Pedestrian,TORRESDALE AVE,Pennypack Creek Park, ,Trail - Park,Primary,40.0377668728,-75.0206064137
+Pedestrian,PENNYPACK PATH,Pennypack Creek Park, ,Trail - Park,Primary,40.0364421174,-75.0227576867
+Vehicular,TORRESDALE AVE,Pennypack Creek Park, ,Road,Secondary,40.0362415132,-75.0234145802
+Vehicular,TORRESDALE AVE,Pennypack Creek Park, ,Road,Secondary,40.0372086079,-75.0214683228
+Pedestrian,PENNYPACK PATH,Pennypack Creek Park, ,Trail - Park,Primary,40.0320112058,-75.0206935626
+Vehicular,STATE RD,Pennypack Creek Park, ,Parking lot,Primary,40.0331672732,-75.0171014855
+Vehicular,STATE RD,Pennypack Creek Park, ,Road,Secondary,40.0305421492,-75.0148616409
+Vehicular,STATE RD,Pennypack Creek Park, ,"Trail - Park, Road, Parking lot",Primary,40.033461696,-75.0133403761
+Pedestrian,PENNYPACK ST,Pennypack Creek Park, ,Trail - Park,Primary,40.0348329457,-75.0012918321
+Pedestrian and Vehicular,STATE RD,Pennypack Creek Park, ,"Trail - Park, Road, Parking lot",Primary,40.0307777527,-75.0224218371
+Pedestrian,TREVOSE RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1317894035,-74.9938547485
+Pedestrian,STEVENS RD,Poquessing Creek Park, ,Trail - Park,Primary,40.126611715,-74.99495148
+Pedestrian,STEVENS RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1264372747,-74.9951396919
+Pedestrian,POQUESSING CREEK DR,Poquessing Creek Park, ,Trail - Park,Primary,40.1260648758,-74.989977583
+Pedestrian,POQUESSING CREEK DR,Poquessing Creek Park, ,Trail - Park,Primary,40.1257025532,-74.989611618
+Pedestrian,POQUESSING CREEK DR,Poquessing Creek Park, ,Trail - Park,Primary,40.1244988998,-74.9889000546
+Pedestrian and Vehicular,TOWNSEND RD,Poquessing Creek Park, ,"Trail - Park, Road",Primary,40.1173119154,-74.9641867615
+Pedestrian and Vehicular,TOWNSEND RD,Poquessing Creek Park, ,"Trail - Park, Road",Primary,40.1175092358,-74.9659976003
+Pedestrian,TOWNSEND RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1174671024,-74.9655738281
+Pedestrian,TOWNSEND RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1174199631,-74.9651304153
+Pedestrian,TOWNSEND RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1173083104,-74.9647072651
+Pedestrian,TOWNSEND RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1172921551,-74.9645233548
+Pedestrian,MEETING HOUSE RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1152304861,-74.9656218519
+Pedestrian,MEETING HOUSE RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1146625478,-74.9655017215
+Pedestrian,MEETING HOUSE RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1140574321,-74.9653821898
+Pedestrian,MEETING HOUSE RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1133257434,-74.9653521645
+Pedestrian,MECHANICSVILLE RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1100158928,-74.9655863061
+Pedestrian,DUNKS FERRY RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1001340317,-74.9762748721
+Pedestrian,DUNKS FERRY RD,Poquessing Creek Park, ,Trail - Park,Primary,40.1002654637,-74.9763742271
+Pedestrian,MEDFORD RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0989355944,-74.9748240207
+Pedestrian,MEDFORD RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0988713972,-74.9746315545
+Pedestrian,ACADEMY RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0970029162,-74.9737373352
+Pedestrian,TORREY RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0967927067,-74.9708717357
+Pedestrian,TORREY RD,Poquessing Creek Park, ,Trail - Park,Primary,40.097244016,-74.9703747998
+Pedestrian,LESTER RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0981483559,-74.9690648953
+Pedestrian,MEDFORD RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0972343861,-74.9646252554
+Pedestrian,MEDFORD RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0972292614,-74.9647544371
+Pedestrian,MEDFORD RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0963926338,-74.9647686915
+Pedestrian,NANTON DR,Poquessing Creek Park, ,Trail - Park,Primary,40.0952052572,-74.9682234583
+Pedestrian,NANTON DR,Poquessing Creek Park, ,Trail - Park,Primary,40.0954421271,-74.9678259182
+Pedestrian,NANTON DR,Poquessing Creek Park, ,Trail - Park,Primary,40.0956260679,-74.9673208883
+Pedestrian,ACADEMY RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0960769632,-74.9701035463
+Pedestrian,VINTON RD,Poquessing Creek Park,May be a rogue trail,Trail - Park,Secondary,40.100843646,-74.961911546
+Pedestrian,WHITING RD,Poquessing Creek Park, ,Trail - Park,Primary,40.08118008,-74.9677198675
+Pedestrian and Vehicular,DENMAN RD,Poquessing Creek Park, ,"Trail - Park, Road",Secondary,40.0793453693,-74.9705952327
+Pedestrian,TELFAIR RD,Poquessing Creek Park, ,Trail - Park,Primary,40.077991166,-74.9691289862
+Pedestrian,DEERPATH LN,Poquessing Creek Park, ,Trail - Park,Primary,40.0760396263,-74.9718831423
+Pedestrian,DEERPATH LN,Poquessing Creek Park, ,Trail - Park,Primary,40.0759046127,-74.9720298288
+Pedestrian,DIMARCO DR,Poquessing Creek Park, ,Trail - Park,Primary,40.0720730199,-74.9744697761
+Pedestrian,RED LION RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0675066296,-74.9801530647
+Pedestrian,KINGHTS RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0668376556,-74.9819136364
+Vehicular,RED LION RD,Poquessing Creek Park, ,Trail - Park,Secondary,40.0673449727,-74.9800780561
+Pedestrian,RED LION RD,Poquessing Creek Park, ,Trail - Park,Primary,40.0662624852,-74.9808977889
+Pedestrian,KINGHTS RD,Poquessing Creek Park, ,Trail - Park,Secondary,40.0663167851,-74.9817673325
+Vehicular,RED LION RD,Poquessing Creek Park, ,Trail - Park,Secondary,40.0655514665,-74.9810145759
+Pedestrian,HEGERMAN ST,Poquessing Creek Park, ,Trail - Park,Primary,40.0613187298,-74.9815410298
+Pedestrian,HEGERMAN ST,Poquessing Creek Park, ,Trail - Park,Primary,40.0602220733,-74.9821554416
+Pedestrian and Vehicular,STEVENSON ST,Poquessing Creek Park, ,Trail - Park,Primary,40.0582365144,-74.9844839825
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9810870215,-75.2815405269
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9801133665,-75.2810357994
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9790325088,-75.281355211
+Pedestrian and Vehicular,CITY AVE,Cobbs Creek Park, ,"Trail - Park, Road",Secondary,39.9767717887,-75.2830734227
+Pedestrian and Vehicular,CITY AVE,Cobbs Creek Park,Cobbs Creek Driving Range,"Park, Road, Parking lot",Primary,39.975427827,-75.2792475386
+Pedestrian,CITY AVE,Cobbs Creek Park,Cobbs Creek & Karakung Golf Course,Trail - Park,Secondary,39.9761518094,-75.2778641932
+Vehicular,HAVERFORD AVE,Cobbs Creek Park,Rose Playground,Road,Primary,39.9727051684,-75.2618362012
+Pedestrian,HAVERFORD AVE,Cobbs Creek Park,Rose Playground,Trail - Park,Primary,39.9743129542,-75.2598451329
+Pedestrian and Vehicular,HAVERFORD AVE,Cobbs Creek Park,Rose Playground,"Trail - Park, Road",Primary,39.9740363231,-75.2591813572
+Vehicular,HAVERFORD AVE,Cobbs Creek Park,Rose Playground,"Park, Road, Parking lot",Secondary,39.9739671222,-75.2590134779
+Pedestrian,HAVERFORD AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9742569361,-75.2592073751
+Pedestrian,HAVERFORD AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9740911019,-75.2588043011
+Pedestrian,6839 LANSDOWNE AVE,Cobbs Creek Park,Papa Playground,Trail - Park,Primary,39.973975438,-75.2584914105
+Pedestrian and Vehicular,6839 LANSDOWNE AVE,Cobbs Creek Park,Papa Playground,"Trail - Park, Road, Parkling lot",Primary,39.9741483212,-75.256939537
+Pedestrian,6839 LANSDOWNE AVE,Cobbs Creek Park,Papa Playground,Trail - Park,Primary,39.9742092054,-75.2563451432
+Pedestrian,6839 LANSDOWNE AVE,Cobbs Creek Park,Papa Playground,Trail - Park,Primary,39.9743385418,-75.2553092349
+Pedestrian,N 68TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9754612053,-75.2554947731
+Pedestrian,N 68TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9759711727,-75.2555854836
+Pedestrian,N 68TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Secondary,39.976760937,-75.2557388463
+Pedestrian and Vehicular,MALVERN AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9781330645,-75.256000803
+Pedestrian,MALVERN AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9782745186,-75.255752673
+Pedestrian,LOTUS RD,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9791302168,-75.255221118
+Pedestrian,N 66TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9795377737,-75.2552829967
+Pedestrian,MORRIS PARK RD,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9802999856,-75.2553857677
+Pedestrian,MORRIS PARK RD,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9803933134,-75.2554021728
+Pedestrian,N 66TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9813349329,-75.2551243257
+Pedestrian,N 66TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9821500715,-75.25581697
+Pedestrian,SHERWOOD RD,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9835874402,-75.2573914494
+Pedestrian,SHERWOOD RD,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9837524491,-75.2573788859
+Pedestrian,N 66TH ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9838259547,-75.2572393459
+Pedestrian,CITY AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.985310548,-75.2586806067
+Pedestrian,CITY AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9849110905,-75.2593640786
+Pedestrian,N 72ND ST,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9808172683,-75.2648357999
+Pedestrian,CITY AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9817138665,-75.2656019196
+Pedestrian,CITY AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9807571264,-75.2677396282
+Pedestrian,CITY AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9810715019,-75.2670474368
+Pedestrian,WOODCREST AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.977617316,-75.2619600663
+Pedestrian,HAVERFORD AVE,Cobbs Creek Park,Morris Park,Trail - Park,Primary,39.9745056545,-75.2598274737
+Vehicular,HAVERFORD AVE,Cobbs Creek Park, ,Road,Secondary,39.9727563321,-75.2551171146
+Pedestrian,CALLOWHILL ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9697808371,-75.2534662488
+Pedestrian,CALLOWHILL ST,Cobbs Creek Park,Granahan Playground,Trail - Park,Primary,39.9695687857,-75.2518611291
+Pedestrian,338-50 N 65TH ST,Cobbs Creek Park,Granahan Playground,Park,Secondary,39.9695106079,-75.251565165
+Pedestrian,338-50 N 65TH ST,Cobbs Creek Park,Granahan Playground,Park,Primary,39.9693866713,-75.2506030627
+Pedestrian,338-50 N 65TH ST,Cobbs Creek Park,Granahan Playground,Park,Primary,39.9693480529,-75.2501434622
+Pedestrian,338-50 N 65TH ST,Cobbs Creek Park,Granahan Playground,Park,Primary,39.969369179,-75.2504128537
+Pedestrian and Vehicular,VINE ST,Cobbs Creek Park, ,"Trail - Park, Road, Parkling lot",Primary,39.9679281226,-75.2509216239
+Pedestrian,RACE ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9662293683,-75.250252115
+Pedestrian,RACE ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9659706211,-75.2481893128
+Pedestrian,N GROSS ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9658800437,-75.2472559086
+Pedestrian,N GROSS ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9652752995,-75.2473856741
+Pedestrian,ARCH ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9642634963,-75.2473500929
+Pedestrian,N 63RD ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9642592982,-75.2465671391
+Pedestrian,N 63RD ST,Cobbs Creek Park, ,Trail - Park,Primary,39.963083747,-75.2468195727
+Vehicular,CARDINGTON RD,Cobbs Creek Park,Cobbs Creek & Karakung Golf Course,Road,Secondary,39.9658284041,-75.2622661804
+Vehicular,7900 LANSDOWNE AVE,Cobbs Creek Park,Cobbs Creek & Karakung Golf Course,Road,Secondary,39.966247086,-75.2673592995
+Pedestrian and Vehicular,7900 LANSDOWNE AVE,Cobbs Creek Park,Cobbs Creek & Karakung Golf Course,"Trail - Park, Road, Parkling lot",Primary,39.9678641969,-75.2653947312
+Pedestrian and Vehicular,7900 LANSDOWNE AVE,Cobbs Creek Park,Cobbs Creek & Karakung Golf Course,"Trail - Park, Road, Parkling lot",Primary,39.9671271647,-75.2662901412
+Pedestrian and Vehicular,MARKET ST,Cobbs Creek Park, ,"Trail - Park, Road, Parkling lot",Primary,39.9628712773,-75.2502908596
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9624384266,-75.2470890388
+Pedestrian,MARKET ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9627853308,-75.2483709571
+Pedestrian and Vehicular,200 S 63RD ST,Cobbs Creek Park,Laura Sims Skating Park,"Trail - Park, Road, Parkling lot",Primary,39.9603178737,-75.247397601
+Pedestrian and Vehicular,200 S 63RD ST,Cobbs Creek Park,Laura Sims Skating Park,"Trail - Park, Road, Parkling lot",Primary,39.9597157279,-75.2475230288
+Pedestrian,200 S 63RD ST,Cobbs Creek Park,Laura Sims Skating Park,Park,Primary,39.9593075844,-75.2476092939
+Pedestrian,200 S 63RD ST,Cobbs Creek Park,Laura Sims Skating Park,Trail - Park,Primary,39.9586544356,-75.2477455671
+Pedestrian and Vehicular,280 COBBS CREEK PKY,Cobbs Creek Park,Cobbs Creek Rec Center Building,"Trail - Park, Road, Parkling lot",Primary,39.9579858857,-75.247878437
+Pedestrian and Vehicular,280 COBBS CREEK PKY,Cobbs Creek Park,Cobbs Creek Rec Center Building,"Trail - Park, Road, Parkling lot",Primary,39.9582524622,-75.2478260585
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park,<Null>,Trail - Park,Primary,39.9571781282,-75.2480518493
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9570084823,-75.248090684
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9542385064,-75.2509660109
+Pedestrian and Vehicular,700 COBBS CREEK PKY,Cobbs Creek Park,Cobbs Creek Stable/ Eniv Ed Center,"Trail - Park, Road, Parkling lot",Primary,39.9517451946,-75.2491859769
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9529112041,-75.2522684218
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9505142273,-75.2529652081
+Pedestrian,700 COBBS CREEK PKY,Cobbs Creek Park,Cobbs Creek Stable/ Eniv Ed Center,Trail - Park,Primary,39.9518992178,-75.2510007503
+Pedestrian,280 COBBS CREEK PKY,Cobbs Creek Park,Cobbs Creek Rec Center Building,Park,Primary,39.9510086476,-75.2493426174
+Pedestrian,COBBS CREEK PKWY,Cobbs Creek Park, ,Trail - Park,Primary,39.9489896333,-75.2497735728
+Pedestrian,COBBS CREEK PKWY & 61ST,Cobbs Creek Park, ,Trail - Park,Primary,39.9464881537,-75.2461290566
+Pedestrian,BALTIMORE AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.943584192,-75.2467711975
+Pedestrian,BALTIMORE AVE,Cobbs Creek Park, ,Trail - Park,Primary,39.9434283589,-75.2467370465

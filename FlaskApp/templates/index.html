@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<head>
+    <title>
+        the app
+    </title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+
+
+
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+
+        <header class="page-header media-down">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+            <script src="../static/js/bootstrap.min.js"></script>
+            <ul class="nav nav-pills pull-up">
+                <li><a href="http://127.0.0.1:5000/create">create</a></li>
+            </ul>
+        </header>
+        {% if pageType != 'create' %}
+        <div class="jumbotron">
+            <h1>"HIII"</h1>
+            <p1 class="lead"> hello, hello,hello</p1>
+        </div>
+
+
+        {%endif%}
+        {%if pageType == 'create'%}
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Scrub uno</h2>
+
+                <p>this website is a website meant for scrubs like sri, 
+                learn to build scrub lord apps because idk, so please no feed
+
+                </p>
+                
+            </div>
+            <div class="col-md-4">
+                <h2>{{message}}</h2>
+                <p>{{user}} i am really smart</p>
+                {%endif%}
+            </div>
+        </div>
+    </div>
+</body>
