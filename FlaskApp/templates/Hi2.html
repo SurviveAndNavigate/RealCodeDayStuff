@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+{% if pageType == 'food' %}
 	<title>maps</title>
 	<link rel="stylesheet" type="text/css" href="../static/Hi11/styles.css">
 </head>
@@ -9,8 +10,9 @@
 	<button id="button" class="btn btn-md btn-warning" onclick="getLocation()">Try It</button> 
 	<div id="map-canvas"></div>
 
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4WEH0iIQynkn_7GNV9DJdLu5bqakKn-8"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAvHbty_Qdf1MhA0FAjUDF0hCPFI5iSOI"></script>
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 	<script type="text/javascript" src="../static/Hi11/test.js"></script>
+	{% endif %}
 </body>
 </html>

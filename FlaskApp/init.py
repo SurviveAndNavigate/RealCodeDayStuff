@@ -13,6 +13,19 @@ import os
 
 app = Flask(__name__)
 wsgi_app = app.wsgi_app
+@app.route('/transport', methods =['GET','POST'])
+def transport():
+    app.secret_key = os.urandom(30)
+    try:
+        if(request.method == 'POST'):
+            return "hello"
+
+    except Exception as g:
+        flash(g)
+
+    return render_template("Hi2.html")
+
+
 @app.route('/' , methods = ['GET','POST'])
 
 def home():
@@ -58,7 +71,7 @@ def food():
 
 
         return render_template("Hi2.html")
-     return render_template("Hi2.html")
+     return render_template("Hi2.html", pageType = 'food')
 
 
 
