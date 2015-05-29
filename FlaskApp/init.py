@@ -18,12 +18,34 @@ def transport():
     app.secret_key = os.urandom(30)
     try:
         if(request.method == 'POST'):
-            return "hello"
+            rawdata = request.json
 
+
+            sorted_data = septa.getStuff(rawdata.get('lng'),rawdata.get('lat'))
+
+            jsonofsorteddata = json.dumps(sorted_data)
+            septa.tracklocation()
+            livebusfeed = septa.currenBus(rawdata.get('lng'),rawdata.get('lat'))
+            realbusfeed = json.dumps(livebusfeed)
+            print septa.combine().__sizeof__()
+
+
+            return json.dumps(septa.combine())
     except Exception as g:
         flash(g)
 
-    return render_template("Hi2.html")
+
+
+
+
+
+
+
+
+
+
+
+    return render_template("Hi2.html", pageType = 'transport')
 
 
 @app.route('/' , methods = ['GET','POST'])
@@ -48,6 +70,7 @@ def food():
             jsondump = json.dumps(food_data)
 
 
+
             print type (food_data)
            # print data
            ## jsonData =  json.loads(data)
@@ -70,7 +93,7 @@ def food():
         flash(e)
 
 
-        return render_template("Hi2.html")
+        return render_template("Hi2.html", pageType = 'food')
      return render_template("Hi2.html", pageType = 'food')
 
 
@@ -79,7 +102,7 @@ def food():
 
 
 if __name__ == "__main__":
-    import os
+
 
     HOST = os.environ.get('SERVER_HOST','localhost')
     try:
@@ -91,4 +114,3 @@ if __name__ == "__main__":
 
     app.run()
     app.run(debug = True)
-
