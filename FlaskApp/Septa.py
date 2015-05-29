@@ -2,8 +2,9 @@ import json as js
 import urllib2 as lib
 import datetime as dat
 import csv 
-
+newdictlocation = {}
 liveboslonglat ={}
+newbusloc = {}
 livebuslat = {}
 livebuslong = {}
 livebusfullgarbage = {}
@@ -26,7 +27,7 @@ def getStuff(longs,lats):
      newdictlong =  {k:v for (k,v) in longitudes.items() if abs(pararmlong - v<=2) }
      newdictlat = {k:v for (k,v) in latitudes.items()  if abs(paramlat - v <= 2)}
      
-     newdictlocation = {}
+
      keys= ""
      for key in newdictlong.keys():
          keys = key
@@ -55,7 +56,7 @@ def tracklocation():
                  
          
                
-           
+
                 
 
                 
@@ -71,13 +72,15 @@ def currenBus(longs, lats):
     pararmlong2 = float(longs)
     paramlat2 = float(lats)
      
-    longdict_bus =  {k:v for (k,v) in longitudes.items() if abs(pararmlong2 - v<=2) }
-    latdict_bus= {k:v for (k,v) in latitudes.items() if  abs(paramlat2 - v <=2)}
-    newbusloc = {}
-    for key in longdict_bus.keys():
+    longdict_bus =  {k:v for (k,v) in livebuslat.items() if abs(pararmlong2 - v<=2) }
+    latdict_bus= {k:v for (k,v) in livebuslong.items() if  abs(paramlat2 - v <=2)}
+
+    for key in livebuslat.keys():
         newbusloc.setdefault(key,[])
-        newbusloc[key].append(longdict_bus.get(key))
-        newbusloc[key].append(latdict_bus.get(key))
+        newbusloc[key].append(livebuslat.get(key))
+        newbusloc[key].append(livebuslong.get(key))
+
+
     
         
 
@@ -86,10 +89,14 @@ def currenBus(longs, lats):
 
     return newbusloc
 
+def combine():
+    fullbus = []
+    fullbus.append(newbusloc)
+    fullbus.append(newdictlocation)
+    print fullbus
 
+    return fullbus
 
-
-    
  
  
 

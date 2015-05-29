@@ -11,7 +11,7 @@ def query(lat,long):
    token = '7WgazPtUgf044YDubVpva4GV8J6t4OXc'
    token_secret ='iPTAd0rLljULzspC-UKA9VOeXqw'
    params = {} 
-   params['terms'] = "restraunts"
+   params['terms'] = "Food"
    params["ll"] = "{},{}".format(str(lat),str(long))
    params["limit"] = 20
    params["radius_filter"] = 1000
